@@ -11,8 +11,6 @@ namespace FileUploadDemo
 {
     class Program
     {
-        private static object qbig;
-        private static object sbtc;
 
         static void Main(string[] args)
         {
@@ -20,13 +18,16 @@ namespace FileUploadDemo
 
             driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(30);
 
-            driver.Url = "https://www.google.bg/imghp?hl=bg&tab=wi";
-            driver.FindElement(By.XPath("//*[@id='sbtc']/div/div[2]/div[1]/span")).Click();
+            driver.Url = "https://www.vum.bg/hello-vum/";
 
-            driver.FindElement(By.XPath("//*[@id='qbug']/div/a")).Click();
-            IWebElement fileUpload = driver.FindElement(By.XPath("//*[@id='qbfile']"));
+            driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(30);
 
-            fileUpload.SendKeys(@"C:\Users\vasilpc\Desktop\3ey7r0sqm7p01.jpg");
+            driver.FindElement(By.XPath("//*[@id='panel-w5978b385b7435-0-0-1']/div/div/ul/li[1]/a")).SendKeys(Keys.Enter);
+
+            string valueString = "I was here";
+            Console.WriteLine(valueString);
+
+
         }
     }
 }
