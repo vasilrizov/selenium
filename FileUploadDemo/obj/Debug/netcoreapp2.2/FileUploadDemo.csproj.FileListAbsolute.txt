@@ -1,0 +1,11 @@
+C:\Users\vasilpc\source\repos\FileUploadDemo\FileUploadDemo\bin\Debug\netcoreapp2.2\FileUploadDemo.deps.json
+C:\Users\vasilpc\source\repos\FileUploadDemo\FileUploadDemo\bin\Debug\netcoreapp2.2\FileUploadDemo.runtimeconfig.json
+C:\Users\vasilpc\source\repos\FileUploadDemo\FileUploadDemo\bin\Debug\netcoreapp2.2\FileUploadDemo.runtimeconfig.dev.json
+C:\Users\vasilpc\source\repos\FileUploadDemo\FileUploadDemo\bin\Debug\netcoreapp2.2\FileUploadDemo.dll
+C:\Users\vasilpc\source\repos\FileUploadDemo\FileUploadDemo\obj\Debug\netcoreapp2.2\FileUploadDemo.csprojResolveAssemblyReference.cache
+C:\Users\vasilpc\source\repos\FileUploadDemo\FileUploadDemo\obj\Debug\netcoreapp2.2\FileUploadDemo.csproj.CoreCompileInputs.cache
+C:\Users\vasilpc\source\repos\FileUploadDemo\FileUploadDemo\obj\Debug\netcoreapp2.2\FileUploadDemo.AssemblyInfoInputs.cache
+C:\Users\vasilpc\source\repos\FileUploadDemo\FileUploadDemo\obj\Debug\netcoreapp2.2\FileUploadDemo.AssemblyInfo.cs
+C:\Users\vasilpc\source\repos\FileUploadDemo\FileUploadDemo\bin\Debug\netcoreapp2.2\FileUploadDemo.pdb
+C:\Users\vasilpc\source\repos\FileUploadDemo\FileUploadDemo\obj\Debug\netcoreapp2.2\FileUploadDemo.dll
+C:\Users\vasilpc\source\repos\FileUploadDemo\FileUploadDemo\obj\Debug\netcoreapp2.2\FileUploadDemo.pdb
